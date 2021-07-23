@@ -23,7 +23,7 @@
 
 _"Os softwares estão dominando o mundo. Infelizmente, muitos ainda têm dificuldade de entregar seus softwares com sucesso, e muito menos no ritmo necessário para se manterem competitivos."_
 
-Serverless é o futuro. Quase todo desenvolvedor que já pensou em botar algum projeto pessoal no ar viu quão trabalhoso pode ser o caminho desde escrever o código até o deploy. Encontrar alguma hospedagem barata/acessível, configurar tudo e entregar novas features pode ser um longo caminho. Principalmente se o seu projeto não for necessariamente uma API ou um backend, mas necessita de um servidor rodando para que funcione.
+Serverless é o futuro. Quase todo desenvolvedor que já pensou em botar algum projeto pessoal no ar viu quão trabalhoso pode ser o caminho desde escrever o código até o deploy. Encontrar alguma hospedagem barata/acessível, configurar tudo e entregar novas features pode ser um longo caminho. Principalmente se o seu projeto for algo simples que não necessariamente necessita uma API ou um backend, mas ainda assim demanda um servidor rodando para funcionar.
 
 O Serverless é a solução para esses problemas. Como o seu próprio nome diz, é uma nova arquitetura de software "sem servidor", ou seja, não demanda um servidor rodando continuamente.
 
