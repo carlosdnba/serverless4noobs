@@ -21,7 +21,15 @@
 
 ## Sobre o Projeto
 
-About the project here
+_"Os softwares estão domindando o mundo. Infelizmente, muitos ainda têm dificuldade de entregar seus softwares com sucesso, e muito menos no ritmo necessário para se manterem competitivos."_
+
+Serverless é o futuro. Quase todo desenvolvedor que já pensou em botar algum projeto pessoal no ar viu quão trabalhoso pode ser o caminho desde escrever o código até o deploy. Encontrar alguma hospedagem barata/acessível, configurar tudo e entregar novas features pode ser um longo caminho. Principalmente se o seu projeto não for necessariamente uma API ou um backend, mas necessita de um servidor rodando para que funcione.
+
+O Serverless é a solução para esses problemas. Como o seu próprio nome diz, é uma nova arquitetura de software "sem servidor", ou seja, não demanda um servidor rodando continuamente.
+
+Escalável, fácil de configurar, fácil de manter e com baixo custo, nesse 4noobs iremos explorar mais sobre o que o Serverless tem para nos oferecer!
+
+Para isso, teremos um tutorial simples com a teoria de como esse framework funciona com dois projetos simples: um bot do Twitter que posta um tweet a cada 30 segundos e uma simples API rest apenas para entendermos como funcionam as rotas HTTP nesse framework.
 
 <!-- ROADMAP -->
 
